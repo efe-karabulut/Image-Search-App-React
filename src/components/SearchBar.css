@@ -1,0 +1,16 @@
+.search {
+    padding: 0.5rem 1rem ;
+    width: 100%;
+    outline: none;
+    text-align: center;
+    height: 40px;
+    margin: 0;
+    font-size: 20px;
+    border-radius: 1rem;
+    border: 3px solid gray;
+    caret-color: gray;
+}
+
+.search-bar {
+    margin-bottom: 5rem;
+}
